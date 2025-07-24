@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">App</string>
+    <string name="test_file_existence">测试文件是否存在</string>
+    <string name="hint_file_path">例如: /sdcard/Downloads/temp.txt</string>
+    <string name="save_file">保存路径</string>
+    <string name="usage">使用说明:</string>
+    <string name="add">1. 添加磁贴到快速设置面板</string>
+    <string name="delete">2. 点击磁贴删除指定文件</string>
+    <string name="dir">配置要删除的文件路径:</string>
+</resources>
