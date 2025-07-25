@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
     private SharedPreferences prefs;
     private static final String TAG = "FileCleanerTile";
     private static final String PREFS_NAME = "FileCleanerPrefs";
-    private static final String FILE_PATH_KEY = "file_path";
+    //private static final String FILE_PATH_KEY = "file_path";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
